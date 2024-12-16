@@ -61,7 +61,7 @@
     "fields": [
        {
          "component": "richtext",
-         "name": "quotetxt",
+         "name": "quote",
          "value": "",
          "label": "Quote",
          "valueType": "string"
