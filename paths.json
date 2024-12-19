@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/eds-training-site-ds/:/"
+    "/content/eds-training-site-ds/:/",
+    "/content/eds-training-site-ds/redirects:/redirects.json"
   ]
 }
