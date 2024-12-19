@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/eds-training-site-ds/:/",
-    "/content/eds-training-site-ds/redirects:/redirects.json"
+    "/content/eds-training-site-ds/redirects:/redirects.json",
+    "/content/eds-training-site-ds/taxonomy:/taxonomy.json"
   ]
 }
